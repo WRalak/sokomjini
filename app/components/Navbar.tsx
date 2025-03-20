@@ -25,13 +25,15 @@ const Navbar = () => {
   return (
     <nav className="flex items-center justify-between p-4 bg-white  sticky top-0 z-50">
       {/* Logo and Icon in One Line */}
+      <Link href={'/'}>    
       <div className="flex items-center gap-2 sm:p-2">
-        <div className="text-xl md:text-3xl font-bold flex items-center">
+        <div className="text-xl md:text-3xl  font-bold flex items-center">
           <span className="text-orange-500">Soko</span>
           <span className="text-black">Ndogo</span>
           <AiTwotoneShop className=" text-xl text-orange-500 md:text-3xl" />
         </div>
       </div>
+      </Link>
       
       {/* Icons - Always on Top */}
       <div className="md:hidden flex items-center gap-3  text-gray-700 text-xl">

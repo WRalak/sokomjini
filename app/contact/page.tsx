@@ -27,12 +27,12 @@ const Contact = () => {
           <p className="text-gray-700">
             54709 Willms Station, Suite 350
             <br />
-            <strong>Tel:</strong> (415) 555‑0132
+            <strong>Tel:</strong> (254) 555‑0132
             <br />
             <strong>Email:</strong> sokondogo@gmail.com
           </p>
 
-          <h2 className="text-2xl font-semibold">Careers at Forever</h2>
+          <h2 className="text-2xl font-semibold">Careers at SokoNdogo</h2>
           <p className="text-gray-700">
             Learn more about our teams and job openings.
           </p>
