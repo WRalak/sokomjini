@@ -29,7 +29,7 @@ const Contact = () => {
             <br />
             <strong>Tel:</strong> (415) 555‑0132
             <br />
-            <strong>Email:</strong> greatstackdev@gmail.com
+            <strong>Email:</strong> sokondogo@gmail.com
           </p>
 
           <h2 className="text-2xl font-semibold">Careers at Forever</h2>
